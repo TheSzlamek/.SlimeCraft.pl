@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+<meta name="description" content="Tworca serwera oraz strony: Szymonek#7184 / YT: Szym0neek / TT: Szym0neek">
+<link rel="Shortcut icon" href="SlimeCraftikona3d.png">
+<title>SlimeCraft.pl - Home</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body background="SlimeCraftikona1d.png">
+
+<image src="SlimeCratikona1.png" width="100">
+
+<center><image src="SlimeCraft1.png" width="1000"></center>
+<center><image src="Start.png" width="200"></center><br>
+<center><image src="przedziałka.png" width="400"></center>
+
+<image src="RenderHomeJJ.png" width="400">
+<image src="Tryby.png" width="350">
+<image src="RenderRyba1.png" width="400" align="right">
+
+<center><image src="przedziałka.png" width="400"></center>
+<a href="BoxPVP.html"><image src="BoxPVP1.png" width="260"></a>
+<a href="LifeSteal.html"><image src="LifeSteal1.png" width="260"></a>
+
+
+
+
+
+
+
+<center><image src="przedziałka.png" width="400"></center>
+<center><image src="SocialMedia.png" width="200"></center>
+<a href="https://discord.gg/sxctmkP9ZV%22%3E
+<center><image src="dc.png" width="50">
+<a href="https://www.youtube.com/channel/UCVVypU0PyhqjvU4t4ZalSXg%22%3E
+<image src="yt.png" width="50"></center>
+</a>
+
+<center><image src="przedziałka.png" width="400"></center>
+<center><a href="rules.html"><image src="regulamin.png" width="200"></a></center>
+
+
+<br>
+<image src="prava.png" width="400">
+</body>
+</html>
